@@ -198,3 +198,14 @@ AutoGuard-CAN/
 
 B.Tech – Electronics & Telecommunication Engineering
 
+## Project Images
+
+### Hardware Setup
+![Hardware Setup](images/IMG_20261029_193811.jpg)
+
+### Dashboard Output
+![Dashboard Output](images/IMG_20261029_193802.jpg)
+
+### System Block Diagram
+![System Block Diagram](images/IMG_20261104_121908.jpg)
+
